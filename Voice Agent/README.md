@@ -2,6 +2,8 @@
 
 A browser voice assistant built on the [OpenAI Realtime API](https://platform.openai.com/docs/guides/realtime) via the [`@openai/agents`](https://openai.github.io/openai-agents-js/) SDK. Tap the mic, speak, and the agent answers out loud — with live CC-style captions while it talks and a full transcript when you hang up.
 
+![Voice Agent UI — tap the mic to start a conversation](docs/screenshot.png)
+
 ## Features
 
 - **Realtime voice conversation** over WebRTC (`gpt-realtime-2.1`)
